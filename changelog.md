@@ -18,3 +18,8 @@ M8 - [Jeremy Wildsmith]
 #### 2018-01-31 10:54 AM
 ### Added
 - Added Bravo -default controller in a subfolder
+
+## *Version 1.2*
+#### 2018-01-31 10:54 AM
+### Added
+- Added Charlie - subcontroller
