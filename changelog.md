@@ -33,3 +33,8 @@ M8 - [Jeremy Wildsmith]
 #### 2018-01-31 
 ### Added
 - Added Echo - subcontroller in a subfolder
+
+## *Version 1.4*
+#### 2018-01-31 
+### Added
+- Added Foxtrot remapped
