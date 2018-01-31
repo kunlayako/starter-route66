@@ -17,3 +17,7 @@ application/logs/*
 /vendor/
 /nbproject/private/
 /nbproject/
+
+#intelij project files
+/.idea/
+*.iml
