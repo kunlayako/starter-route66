@@ -15,6 +15,11 @@ M8 - [Jeremy Wildsmith]
 - Added changelog
 
 ## *Version 1.1*
+#### 2018-01-31 12:18 PM
+### Added
+- Added able endpoint via Able controller
+
+## *Version 1.2*
 #### 2018-01-31 10:54 AM
 ### Added
 - Added Bravo -default controller in a subfolder
