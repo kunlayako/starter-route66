@@ -5,9 +5,9 @@ COMP4711 - Lab 4
 
 Captain - [Robbie Perry]
 
-Mate - [Kunlaya ]
+Mate - [Kunlaya Kobunnoi]
 
-Mate - [Jeremy Wildsmith]
+M8 - [Jeremy Wildsmith]
 
 ## *Version 1.0*
 #### 2018-01-31 10:54 AM
