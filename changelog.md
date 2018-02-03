@@ -53,3 +53,10 @@ M8 - [Jeremy Wildsmith]
 #### 2018-02-3
 ### Added
 - Routed /show/x to /welcome/show/x
+
+
+## *Version 1.8*
+#### 2018-02-3
+### Added
+- Implemented Gold controller which shows record number 6
+- Added routing rule that directs requests with first segment i to golf
