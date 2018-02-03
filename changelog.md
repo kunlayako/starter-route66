@@ -38,3 +38,8 @@ M8 - [Jeremy Wildsmith]
 #### 2018-01-31 
 ### Added
 - Added Foxtrot remapped
+
+## *Version 1.5*
+#### 2018-02-3
+### Added
+- Added India controller, which renders image from [root]/data/icon.jpeg
