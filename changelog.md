@@ -43,3 +43,8 @@ M8 - [Jeremy Wildsmith]
 #### 2018-02-3
 ### Added
 - Added India controller, which renders image from [root]/data/icon.jpeg
+
+## *Version 1.6*
+#### 2018-02-3
+### Added
+- Added Juliet controller, which renders the first record as serialized json data
