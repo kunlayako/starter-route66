@@ -48,3 +48,8 @@ M8 - [Jeremy Wildsmith]
 #### 2018-02-3
 ### Added
 - Added Juliet controller, which renders the first record as serialized json data
+
+## *Version 1.7*
+#### 2018-02-3
+### Added
+- Routed /show/x to /welcome/show/x
