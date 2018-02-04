@@ -60,3 +60,8 @@ M8 - [Jeremy Wildsmith]
 ### Added
 - Implemented Gold controller which shows record number 6
 - Added routing rule that directs requests with first segment i to golf
+
+## *Version 1.9*
+#### 2018-02-3
+### Added
+- Added routing rule that directs 'bananas/rule' to golf controller
