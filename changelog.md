@@ -65,3 +65,9 @@ M8 - [Jeremy Wildsmith]
 #### 2018-02-3
 ### Added
 - Added routing rule that directs 'bananas/rule' to golf controller
+
+
+## *Version 2.0*
+#### 2018-02-3
+### Added
+- Fixed issue with some links in nav bar not working.
