@@ -71,3 +71,8 @@ M8 - [Jeremy Wildsmith]
 #### 2018-02-3
 ### Added
 - Fixed issue with some links in nav bar not working.
+
+## *Version 2.1*
+#### 2018-02-3
+### Added
+- Echo folder should be lower case, otherwise the URL does not work on LAMP servers.
